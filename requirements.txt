@@ -9,11 +9,12 @@ networkx
 seaborn
 matplotlib
 ipykernel
-nltk
-gensim
 umap-learn
 tqdm
 black
 nbconvert
 numba
 requests
+torch
+torchvision
+torchaudio
